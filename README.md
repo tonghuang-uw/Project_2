@@ -22,7 +22,7 @@
 -----------------
 # Installation
 - Installing Scikit-learn
-To install the Scikit-learn, check that your development environment is active, and then run the following command:
+- To install the Scikit-learn, check that your development environment is active, and then run the following command:
 
 _pip install -U scikit-learn_
 
@@ -36,25 +36,27 @@ _pip install numpy_
 
 # Usage
 
--Momentum Selection
--Lagged price
--SMA: Rolling averages
--EMA
--MACD
-The code use different strategies with different models, simply compare them and choose the most profitable.
+- Momentum Selection
+- Lagged price
+- SMA: Rolling averages
+- EMA
+- MACD
+_The code use different strategies with different models, simply compare them and choose the most profitable.
 
 -------------
 # Contributers
-Contributed by: - Tong Huang
-                - Matheus Guelfi
-                - Akshy Palanisamy 
+Contributed by: 
+- Tong Huang
+- Matheus Guelfi
+- Akshy Palanisamy 
 
 
 ---------
 # License
 
-MIT 
-_"this is not a financial product, this projects intends to be educational only"_ 
+### MIT 
+____
+###_"this is not a financial product, this projects intends to be educational only"_ 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
