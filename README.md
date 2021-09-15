@@ -41,7 +41,7 @@ _pip install numpy_
 - SMA: Rolling averages
 - EMA
 - MACD
-_The code use different strategies with different models, simply compare them and choose the most profitable.
+ - _The code use different strategies with different models, simply compare them and choose the most profitable.
 
 -------------
 # Contributers
