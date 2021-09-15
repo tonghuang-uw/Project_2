@@ -2,7 +2,7 @@
 
 # TRANDING BOT USING MACHINE LEARNING
 ----------
-- This project is about creating a algorithmic trading Bot using machine learning to help user maintain competitive advantage in the market. It takes into account different Strategies across the same set of tickers that could change the returns on the trading algorithm. We use a different machine learning models to check the viability and compared their performance to select the best model
+- This project is about creating an algorithmic trading Bot using machine learning to help users maintain competitive advantage in the market. It takes into account different Strategies across the same set of tickers that could change the returns on the trading algorithm. We use a different machine learning models to check the viability and compare their performance to select the best model
 -----------
 
 # Technologies
