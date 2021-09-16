@@ -36,12 +36,13 @@ _pip install numpy_
 
 # Usage
 
+The code use different strategies with different models, simply compare them and choose the most profitable.
+
 - Momentum Selection
 - Lagged price
-- SMA: Rolling averages
+- SMA
 - EMA
 - MACD
- - _The code use different strategies with different models, simply compare them and choose the most profitable.
 
 -------------
 # Contributers
